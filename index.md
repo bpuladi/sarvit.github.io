@@ -1,1 +1,1 @@
-RWTH Surgical Augmented and Virtual Reality Toolkit
+RWTH Surgical Augmented and Virtual Reality Interactive Toolkit
